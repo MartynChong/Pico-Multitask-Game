@@ -10,9 +10,9 @@ Requirements
 
 No additional requirements from what is provided.
 
-Raspberry Pi Pico
-Maker Pi Pico
-Thonny & MicroPython
+- Raspberry Pi Pico
+- Maker Pi Pico
+- Thonny & MicroPython
 Setup
 
 This project is written in MicroPython so you will need to have that installed and also an IDE to write the program in. Then, clone the repository with: git clone https://github.com/MartynChong/Pico-Multitask-Game.git to get the skeleton code to start with. Here is the link to the repository as well, and there is also a solution branch should you need to look at it.
